@@ -10,3 +10,4 @@ Mono repo House a static website which acts as a client for a chat application a
 [] pipeline - lint, tests, web driver?
 [] deploy website to azure
 [] deploy go to serverless azure
+[] use OAuth to authenticate users

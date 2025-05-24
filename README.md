@@ -5,6 +5,7 @@ Mono repo House a static website which acts as a client for a chat application a
 
 ## Todo
 
+[] send message from client
 [] establish Go lang server
 [] run both serverless and local
 [] pipeline - lint, tests, web driver?

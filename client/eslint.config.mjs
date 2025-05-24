@@ -15,9 +15,9 @@ export default tseslint.config(
       "simple-import-sort": simpleImportSort,
     },
     rules: {
-      "no-unused-vars": "off",
+      "no-unused-vars": "error",
       "@typescript-eslint/no-unused-vars": "error",
-      "@typescript-eslint/no-explicit-any": "off",
+      "@typescript-eslint/no-explicit-any": "error",
       "@typescript-eslint/explicit-function-return-type": "error",
       "simple-import-sort/imports": "error",
       "simple-import-sort/exports": "error",
